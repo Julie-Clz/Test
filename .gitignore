@@ -1,0 +1,3 @@
+# Ignorer les fichiers temporaires
+.DS_Store
+node_modules/
